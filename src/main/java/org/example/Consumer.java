@@ -23,5 +23,6 @@ public class Consumer {
 //        System.out.println(response);
 
         System.out.println("All be fine!");
+        System.out.println("From origin master");
     }
 }
