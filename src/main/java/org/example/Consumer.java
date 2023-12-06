@@ -22,6 +22,6 @@ public class Consumer {
 //      String response = restTemplate.getForObject(url,String.class);
 //        System.out.println(response);
 
-
+        System.out.println("All be fine!");
     }
 }
